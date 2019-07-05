@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piero/Development/Cpp/POO2/practica-calificada-4-pmariniutec/main.cpp
+iostream
+-
+thread
+-
+algorithm
+-
+vector
+-
+

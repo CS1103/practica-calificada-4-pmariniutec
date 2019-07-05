@@ -1,0 +1,3 @@
+/home/piero/Development/Cpp/POO2/practica-calificada-4-pmariniutec/build/CMakeFiles/rebuild_cache.dir
+/home/piero/Development/Cpp/POO2/practica-calificada-4-pmariniutec/build/CMakeFiles/PC4.dir
+/home/piero/Development/Cpp/POO2/practica-calificada-4-pmariniutec/build/CMakeFiles/edit_cache.dir
